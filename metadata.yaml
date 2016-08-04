@@ -1,0 +1,50 @@
+_repo: The-Yellow-Fairy-Book_640
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: Title; Contents; Dedication; Preface; The Cat And The Mouse In Partnership;
+  The Six Swans; The Dragon Of The North; Story Of The Emperor's New Clothes; The
+  Golden Crab; The Iron Stove; The Dragon And His Grandmother; The Donkey Cabbage;
+  The Little Green Frog; The Seven-headed Serpent; The Grateful Beasts; The Giants
+  And The Herdboy; The Invisible Prince; The Crow; How Six Men Travelled Through The
+  Wide World; The Wizard King; The Nixy; The Glass Mountain; Alphege, Or The Green
+  Monkey; Fairer-than-a-fairy; The Three Brothers; The Boy And The Wolves, Or The
+  Broken Promise; The Glass Axe.
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '1996-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '640'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcsh 'Folklore'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: The cat and the mouse in partnership -- The six swans -- The dragon
+  of the North -- Story of the emperor's new clothes -- The golden crab -- The iron
+  stove -- The dragon and his grandmother -- The donkey cabbage -- The little green
+  frog -- The seven-headed serpent -- The grateful beasts -- The giants and the herd-boy
+  -- The invisible prince -- The crow -- How six men travelled through the wide world
+  -- The wizard king -- The nixy -- The glass mountain -- Alphege, or The green monkey
+  -- Fairer-than-a-fairy -- The three brothers -- The boy and the wolves, or The broken
+  promise -- The glass axe -- The dead wife -- In the land of souls -- The white duck
+  -- The witch and her servants -- The magic ring -- The flower queen's daughter --
+  The flying ship -- The snow-daughter and the fire-son -- The story of King Frost
+  -- The death of the sun-hero -- The witch -- The hazel-nut child -- The story of
+  Big Klaus and Little Klaus -- Prince Ring -- The swineherd -- How to tell a true
+  princess -- The blue mountains -- The tinder-box -- The witch in the stone boat
+  -- Thumbelina -- The nightingale -- Hermod and Hadvor -- The steadfast tin-soldier
+  -- Blockhead Hans -- A story about a darning-needle.
+title: The Yellow Fairy Book
+url: http://www.gutenberg.org/ebooks/640
