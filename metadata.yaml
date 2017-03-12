@@ -1,5 +1,8 @@
 _repo: The-Yellow-Fairy-Book_640
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lang, Andrew
@@ -17,6 +20,8 @@ description: Title; Contents; Dedication; Preface; The Cat And The Mouse In Part
   Wide World; The Wizard King; The Nixy; The Glass Mountain; Alphege, Or The Green
   Monkey; Fairer-than-a-fairy; The Three Brothers; The Boy And The Wolves, Or The
   Broken Promise; The Glass Axe.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/640#The-Yellow-Fairy-Book
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '1996-08-01'
 gutenberg_type: Text
